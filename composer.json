@@ -1,8 +1,9 @@
 {
-	"name": "doo-vjdev/dompdf",
-	"description": "DOMPdf library to use in cakephp 3 framework",
-	"license": "GNU GPL",
-	"require": {
-            "php": ">=5.4.16"
-	}
+    "name": "doo-vjdev/dompdf",
+    "description": "Dompdf for cakephp 3",
+    "require": {
+        "php": "5.4.12"
+    },
+    "license": "GNU GPL",
+    "minimum-stability": "stable"
 }
