@@ -2,7 +2,7 @@
     "name": "doo-vjdev/dompdf",
     "description": "Dompdf for cakephp 3",
     "require": {
-        "php": "5.4.12"
+        "php": ">=5.4.12"
     },
     "license": "GNU GPL",
     "minimum-stability": "stable"
